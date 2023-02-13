@@ -22,7 +22,7 @@ _Описание проекта NeuroStartUp_:
 
 _Логотип_:
 
-![](https://user-images.githubusercontent.com/67290277/218504293-b24dbbb6-16a5-4b93-9099-cec64278e54e.png)
+![](https://github.com/Valted-cmd/Git1/blob/f6ebcb9171a62d68a80ad490829541f8141b48ac/123.png)
 
 
 
@@ -48,7 +48,7 @@ _Можете скопировать разметку из подсказки и
 ```markdown
 # NeuroStartUp
 
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![](https://github.com/Valted-cmd/Git1/blob/f6ebcb9171a62d68a80ad490829541f8141b48ac/123.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
